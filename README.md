@@ -1,5 +1,7 @@
 # README
 
+[![CircleCI](https://circleci.com/gh/Mozl/playing-with-ror.svg?style=svg)](https://circleci.com/gh/Mozl/playing-with-ror)
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
