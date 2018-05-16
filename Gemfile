@@ -6,6 +6,7 @@ gem 'devise'
 gem 'bootstrap', '~> 4.1.1'
 gem 'jquery-rails'
 gem 'autoprefixer-rails'
+gem 'rspec'
 
 
 
